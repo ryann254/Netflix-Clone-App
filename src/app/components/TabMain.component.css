@@ -1,0 +1,24 @@
+.tab-icon-door {
+  width: 2.8125rem;
+  height: 2.8125rem;
+  margin-top: -95px;
+}
+.tab-icon-devices {
+  width: 9.6875rem;
+  height: 9.6875rem;
+}
+.dev {
+  margin-top: -65px;
+  margin-left: 10px;
+}
+.cancel {
+  margin-top: -75px;
+}
+.price {
+  margin-top: -70px;
+}
+.tab-icon-price {
+  width: 2.8125rem;
+  height: 2.8125rem;
+  margin-top: -95px;
+}

@@ -1,0 +1,67 @@
+.container {
+  background: var(--main-deep-dark);
+  padding-top: 10rem;
+  padding-bottom: 3rem;
+  color: #999;
+}
+
+ul > li {
+  list-style-type: none;
+}
+ul > li > a {
+  color: #999;
+  cursor: pointer;
+  line-height: 2.5;
+}
+span > a {
+  color: #999;
+  cursor: pointer;
+  line-height: 2.5;
+}
+ul > li > a:hover {
+  text-decoration: underline;
+}
+span > a:hover {
+  text-decoration: underline;
+}
+.footer-columns {
+  width: 70%;
+  margin: 1rem auto 0;
+  font-size: 0.9rem;
+  overflow: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.language-btn {
+  background: transparent;
+  border: 0.9px solid #333;
+  padding: 0.9rem;
+  width: 8rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 2rem 0 2rem;
+}
+
+.language-toggle {
+  border: none;
+  margin-left: 2.1%;
+  position: absolute;
+  background: var(--main-deep-dark);
+  color: #fff;
+  padding: 3.6px;
+}
+.language-toggle option {
+  background: var(--main-deep-dark);
+  width: 8.125rem;
+  border: 1px solid #333;
+  text-align: center;
+  padding: 0.6rem;
+  margin: 0;
+  width: 8rem;
+  color: var(--main-grey);
+}
+.language-toggle option:hover {
+  background: #0085ff;
+  color: #fff;
+}
