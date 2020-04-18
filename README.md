@@ -1,4 +1,4 @@
-Find the websit at this link...https://tender-fermi-f8c720.netlify.app/
+Find the website at this link...https://tender-fermi-f8c720.netlify.app/
 
 
 # NetflixCloneApp
