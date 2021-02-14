@@ -24,7 +24,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "components": "^0.1.0",
-    "ionicons": "^4.6.3",
+    "ionicons": "^5.5.0",
     "rxjs": "~6.4.0",
     "styled": "^1.0.0",
     "styled-components": "^4.4.0",
